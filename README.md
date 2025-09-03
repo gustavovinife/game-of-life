@@ -2,6 +2,10 @@
 
 A React implementation of Conway's Game of Life with a clean, modern interface.
 
+## 🎮 Live Demo
+
+**[Try it now →](https://game-of-life-seven-omega.vercel.app/)**
+
 ## About
 
 Conway's Game of Life is a cellular automaton where cells evolve based on simple rules:
